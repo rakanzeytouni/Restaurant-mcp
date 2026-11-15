@@ -1,0 +1,8 @@
+﻿id,name,name_ar,price_lbp,currency,description,available
+1,Tawook,طاووق,350000,LBP,"Tawook, fries, coleslaw salad",True
+2,Burger,برغر,300000,LBP,"Beef, onions, tomatoes, iceberg lettuce, cocktail sauce",True
+3,Turkey,تركي,400000,LBP,"Turkey, Emmental cheese, tomatoes, pickles, concho, white sauce",True
+4,Halloumi Pesto,حلّوم بيستو,400000,LBP,"Halloumi, pesto, tomatoes",True
+5,Chicken Chad,تشيكن تشاد,500000,LBP,"Chicken, onions, bell peppers, cheddar, kashkaval cheese",True
+6,Chicken Grazilite,تشيكن غرازيليت,500000,LBP,"Chicken, mixed peppers, Parmesan, kashkaval",True
+7,Nutella Toast,توست نوتيلا,150000,LBP,"Nutella toast, cherry jam or sour cherry jam",True

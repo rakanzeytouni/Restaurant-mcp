@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "title": "Restock Chicken",
+        "description": "Buy 10 kg of fresh chicken for Sahtein restaurant.",
+        "priority": "high",
+        "due_date": "2026-11-16",
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "task": "Buy 10 kg of chicken - due tomorrow, Monday 2026-11-16",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "task": "Buy tables for the restaurant at 6:00 PM",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "task": "Buy tables for the restaurant tomorrow, Monday November 16, 2026, at 6:00 PM",
+        "completed": false
+    }
+]
