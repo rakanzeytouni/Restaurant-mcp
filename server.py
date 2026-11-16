@@ -16,7 +16,6 @@ ALTERNATIVE_PRODUCTS = [
     "Chicken Chad"
 ]
 
-
 # SHARED FUNCTIONS
 
 def normalize_name(name):
