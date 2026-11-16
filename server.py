@@ -1,9 +1,9 @@
 import csv
 import json
 import os
-from mcp.server.mcpserver import MCPServer
+from mcp.server.fastmcp import FastMCP
 
-mcp = MCPServer("restaurant-mcp")
+mcp = FastMCP("restaurant-mcp")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -12,7 +12,7 @@ STOCK_CSV = os.path.join(BASE_DIR, "stock.csv")
 TASKS_JSON = os.path.join(BASE_DIR, "tasks.json")
 
 
-# TOOL 1: Get Product
+
 
 # TOOL 1: Get Product
 @mcp.tool()
@@ -35,7 +35,6 @@ def get_product(product_name: str) -> str:
 
     search = product_name.strip().lower()
 
-    # Detect requests for the complete menu
     all_keywords = [
         "all",
         "all products",
