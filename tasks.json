@@ -21,5 +21,15 @@
         "id": 4,
         "task": "Buy tables for the restaurant tomorrow, Monday November 16, 2026, at 6:00 PM",
         "completed": false
+    },
+    {
+        "id": 5,
+        "task": "Halloumi Pesto (حلّوم بيستو) is out of stock: bring about 10 by 15/11/2026",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "task": "Halloumi Pesto (حلّوم بيستو) is out of stock: bring about 10 by 17/11/2026",
+        "completed": false
     }
 ]
